@@ -1,0 +1,2 @@
+# farsell
+Traditional trading simplified
