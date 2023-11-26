@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\2023\\Internship\\code\\FarsellWeb\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj": {}
+    "G:\\2023\\Internship\\Latest code\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj": {}
   },
   "projects": {
-    "G:\\2023\\Internship\\code\\FarsellWeb\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj": {
+    "G:\\2023\\Internship\\Latest code\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\2023\\Internship\\code\\FarsellWeb\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj",
+        "projectUniqueName": "G:\\2023\\Internship\\Latest code\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj",
         "projectName": "FarSellWeb",
-        "projectPath": "G:\\2023\\Internship\\code\\FarsellWeb\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj",
+        "projectPath": "G:\\2023\\Internship\\Latest code\\FarSellWeb\\FarSellWeb\\FarSellWeb.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\2023\\Internship\\code\\FarsellWeb\\FarSellWeb\\FarSellWeb\\obj\\",
+        "outputPath": "G:\\2023\\Internship\\Latest code\\FarSellWeb\\FarSellWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,72 +38,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.23, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[6.0.23, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.23, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.23, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.16, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.24, 6.0.24]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.24, 6.0.24]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.24, 6.0.24]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.24, 6.0.24]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
